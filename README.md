@@ -49,6 +49,7 @@ cd ../frontend && npm install
 
 # 4️⃣ Create environment files
 # backend/.env
+PORT=Your_PORT
 MONGO_URI=your_mongo_uri
 JWT_SECRET=your_jwt_secret
 EMAIL_USER=your_email
